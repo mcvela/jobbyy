@@ -68,3 +68,4 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+/grails-app/conf/DataSource.groovy

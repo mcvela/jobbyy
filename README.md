@@ -14,10 +14,10 @@ V1.0
 - Create JobbyyDB
 - User permission database,
     login:sa password:sa
-- Include domain jobbyy.com in you hostname file
-   Fix the problem with icons bootstrap 
-- Plugins include:
-		cache-1.1.1
+- Include domain jobbyy.com in you hostname file<br>
+   Fix the problem with icons bootstrap <br>
+- Plugins include:<br>
+		cache-1.1.1<br>
 		database-migration-1.3.8
 		db-reverse-engineer-0.5
 		famfamfam-1.0.1
